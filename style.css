@@ -24,6 +24,7 @@ body {
     text-align: center;
     font-size: 22px;
     color: black;
+    font-weight: bold;
     width: 100%;
 }
 .question {
